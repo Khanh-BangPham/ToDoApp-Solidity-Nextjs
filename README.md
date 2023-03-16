@@ -13,6 +13,7 @@ pnpm dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## To Do App 
-Language: Solidity, Javascript
+```Language: Solidity, Javascript
 IDE: Visual Studio Code
 Front end: NextJs
+```
